@@ -1,3 +1,6 @@
+# Private data
+data/cho-chat-history.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
